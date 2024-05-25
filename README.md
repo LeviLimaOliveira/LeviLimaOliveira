@@ -1,4 +1,4 @@
-## Olá, eu sou Leví Oliveira, Software Developer Apaixonado por Tecnologia e inovação! 💻💡
+## Olá, eu sou Leví Oliveira, Software Developer, foco em estar atualizado na área Tecnologia e inovação! 💻💡
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
