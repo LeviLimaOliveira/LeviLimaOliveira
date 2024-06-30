@@ -1,4 +1,6 @@
 ## Olá, eu sou Leví Oliveira, Software Developer, foco em estar atualizado na área de Tecnologia e inovação! 💻💡
+
+
  
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -10,6 +12,8 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+
+
 
 ##
 <p align="center">
